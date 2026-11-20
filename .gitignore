@@ -1,0 +1,8 @@
+node_modules/
+smartshuttle.db
+smartshuttle.db-shm
+smartshuttle.db-wal
+ai/.venv/
+ai/__pycache__/
+ai/*.joblib
+.env
